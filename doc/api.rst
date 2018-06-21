@@ -84,22 +84,6 @@ Matrix plots
     heatmap
     clustermap
 
-Timeseries plots
-----------------
-
-.. autosummary::
-    :toctree: generated/
-
-    tsplot
-
-Miscellaneous plots
--------------------
-
-.. autosummary::
-    :toctree: generated/
-
-    palplot
-
 .. _style_api:
 
 Style frontend
